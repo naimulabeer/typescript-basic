@@ -6,7 +6,7 @@ type SectionProps = {
 };
 
 export default function Section({
-  title = "My heading",
+  title = "Naimul Haq Abeer",
   children,
 }: SectionProps) {
   return (

@@ -6,8 +6,8 @@ import TodoList from "./Components/TodoList";
 function App() {
   return (
     <>
-      <Heading title={"Hello World!"} />
-      <Section>The section part</Section>
+      <Heading title={"Hello Typescript!"} />
+      <Section>Testing section part</Section>
       <TodoList />
     </>
   );
